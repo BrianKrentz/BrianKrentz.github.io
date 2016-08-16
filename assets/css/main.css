@@ -2600,13 +2600,13 @@
 /* One */
 
 	#one:before {
-		background-image: url("Sunset_Rock(1).jpg");
+		background-image: url("../../images/Sunset_Rock(1).jpg");
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: cover;
 		content: '';
 		display: block;
-		height: 15em;
+		height: 20em;
 		width: 100%;
 	}
 
