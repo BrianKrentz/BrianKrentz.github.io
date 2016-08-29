@@ -476,7 +476,7 @@
 	@media screen and (max-width: 1680px) {
 
 		.row > * {
-			padding: 0 0 0 2em;
+			padding: 0 0 0 1em;
 		}
 
 		.row {
